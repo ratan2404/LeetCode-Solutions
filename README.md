@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0796-rotate-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
