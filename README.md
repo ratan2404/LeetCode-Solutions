@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0283-move-zeroes](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -79,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [2235-add-two-integers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
