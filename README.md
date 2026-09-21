@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
