@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
