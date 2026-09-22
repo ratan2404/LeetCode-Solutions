@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
