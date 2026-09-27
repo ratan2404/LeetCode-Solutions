@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -156,9 +158,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
