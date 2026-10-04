@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2235-add-two-integers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
