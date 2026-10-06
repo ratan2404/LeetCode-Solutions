@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Stack
 |  |
