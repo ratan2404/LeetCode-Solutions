@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
