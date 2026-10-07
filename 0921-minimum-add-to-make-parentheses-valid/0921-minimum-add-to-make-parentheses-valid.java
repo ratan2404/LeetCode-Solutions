@@ -1,20 +1,11 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int o = 0;
-        int need = 0;
-        
-        for (char ch : s.toCharArray()) {
-            if (ch == '(') {
-                o++;
-            } else {
-                if (o > 0) {
-                    o--;
-                } else {
-                    need++;
-                }
-            }
+        // जब तक स्ट्रिंग में "()" का जोड़ा मिल रहा है, उसे हटाते रहें
+        while (s.contains("()")) {
+            s = s.replace("()", "");
         }
         
-        return o + need;
+        // अंत में बची हुई स्ट्रिंग के हर कैरेक्टर को जोड़े की जरूरत होगी
+        return s.length();
     }
 }
