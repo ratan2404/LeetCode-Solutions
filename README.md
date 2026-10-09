@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
