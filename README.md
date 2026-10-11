@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2579-count-total-number-of-colored-cells](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3870-count-commas-in-range](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
