@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
