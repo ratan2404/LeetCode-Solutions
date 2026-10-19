@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
@@ -318,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
