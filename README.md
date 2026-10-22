@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Stack
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
