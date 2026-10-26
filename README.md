@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -305,10 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
