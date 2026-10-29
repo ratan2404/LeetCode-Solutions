@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -365,4 +366,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
