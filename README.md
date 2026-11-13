@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2579-count-total-number-of-colored-cells](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
