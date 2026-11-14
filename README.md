@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
