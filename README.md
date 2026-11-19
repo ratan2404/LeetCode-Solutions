@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 ## String Matching
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
