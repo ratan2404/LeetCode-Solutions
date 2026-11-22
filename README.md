@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2942-find-words-containing-character](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3340-check-balanced-string](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
