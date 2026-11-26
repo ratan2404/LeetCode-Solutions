@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2579-count-total-number-of-colored-cells](https://github.com/ratan2404/LeetCode-Solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ratan2404/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/ratan2404/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [3360-stone-removal-game](https://github.com/ratan2404/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Stack
 |  |
 | ------- |
